@@ -1,0 +1,12 @@
+.main-section-1
+{
+    width: 100%;
+    background: linear-gradient(to right, #000 0% 50%, #07c7e8 50% 100%);
+}
+.home
+{
+    width: 100%;
+    height: 987px;
+    /* background-color: red; */
+    background: linear-gradient(to right, #000 0% 50%, #07c7e8 50% 100%);
+}
